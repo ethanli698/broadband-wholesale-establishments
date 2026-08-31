@@ -19,7 +19,7 @@ Replication code for a county-level study of broadband adoption and wholesale es
 
     d_lestab = b0 + b1*d_bb + b2*bb_base + b3*lestab_base + b4*d_lpop + b5*metro + e
 
-Long-difference regression: each county contributes one observation of the 2008–2023 change.
+First-difference regression: each county contributes one observation of the 2008–2023 change.
 
 ## Notes
 
